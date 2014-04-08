@@ -4,6 +4,11 @@
 	2012.09.25
 */
 
+/*
+소프트웨어 공학 수업 관련 Git Test 중입니다. . .
+*/ 
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
